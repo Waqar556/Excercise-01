@@ -1,0 +1,8 @@
+.submit_button{
+    padding: 8px;
+    font-size: 12px;
+    background-color: rgb(10, 84, 169);
+}
+.submit_button:hover{
+    background-color: rgba(10, 84, 169, 0.8);
+}
